@@ -1,0 +1,6 @@
+customer_id,customer_name,gender,age,city,signup_date
+1,Rahul,M,33,Delhi,2022-01-10
+2,Amit,M,29,Mumbai,2022-03-15
+3,Priya,F,31,Bangalore,2022-05-20
+4,Neha,F,27,Pune,2022-06-18
+5,Suresh,M,40,Chennai,2021-11-25
